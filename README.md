@@ -1,2 +1,3 @@
 # rail_ruby
-Sample Rail Project
+demo.rb
+puts"Hello Word"
